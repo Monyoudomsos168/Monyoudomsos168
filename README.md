@@ -1,6 +1,6 @@
 # Hi, I'm Chenda Monyoudom
 
-A senior backend developer from Cambodia, based in Phnom Penh. I regulary write articles on Obsidian.
+A senior backend developer from Cambodia, based in Phnom Penh. I regularly write articles on Obsidian.
 
 ## About Me
 
@@ -94,9 +94,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 30/10/2023
 <!--END_SECTION:waka-->
-
-<!--
-**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
